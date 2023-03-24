@@ -13,12 +13,12 @@
     "@nuxt/utils": "2.15.3",
     "consola": "^2.15.3",
     "defu": "^3.2.2",
-    "destr": "^1.1.0",
-    "dotenv": "^8.2.0",
+    "destr": "^1.2.2",
+    "dotenv": "^8.6.0",
     "lodash": "^4.17.21",
-    "rc9": "^1.2.0",
-    "std-env": "^2.3.0",
-    "ufo": "^0.6.10"
+    "rc9": "^1.2.4",
+    "std-env": "^2.3.1",
+    "ufo": "^0.8.6"
   },
   "publishConfig": {
     "access": "public"
